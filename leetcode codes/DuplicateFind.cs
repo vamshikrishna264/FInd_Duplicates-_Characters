@@ -87,9 +87,9 @@ namespace leetcode_codes
             // Call method
             
 
-                    // Print output
+                   //another program to find a area of shape
                     
-
+              
                     AreaFinder shape = new AreaFinder();
                     Console.Write("Enter number of sides: ");
                     int sides = Convert.ToInt32(Console.ReadLine());
