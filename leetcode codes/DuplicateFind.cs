@@ -10,6 +10,7 @@ namespace leetcode_codes
     {
         public bool IsValidInput(string input)
         {
+
             return !string.IsNullOrWhiteSpace(input);
         }
 
